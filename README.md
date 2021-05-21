@@ -1,4 +1,4 @@
 # Google-Code-Jam
-Solutions to problems of Code Jam 2021
+Solutions to problems of Google Code Jam 2021
 
 ## Project Notes
